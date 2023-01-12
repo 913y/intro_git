@@ -1,3 +1,5 @@
-‚ê‚ñ‚µ‚ã‚¤
+practice
+
 .git add
 .git commit
+.git remove
